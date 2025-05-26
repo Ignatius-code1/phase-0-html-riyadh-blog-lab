@@ -1,6 +1,6 @@
 HEADING
 
-`Welcome to Riyadh`
+Welcome to Riyadh``
 
 SUB HEAD
 
@@ -48,7 +48,7 @@ IMAGE 3 FILE
 
 IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+`camels-in-truck.jpg`
 
 SMALLER SUB HEAD
 
